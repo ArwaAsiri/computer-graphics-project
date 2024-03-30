@@ -1,1 +1,1 @@
-# computer-graphics-project
+# The Computer Geeks
